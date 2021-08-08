@@ -90,7 +90,7 @@ function App() {
       <div className="header">
         <h1>Rock.Paper.Scissors</h1>
         <p>{userWinCount} Wins</p>
-        <p>{computerWinCount} Wins</p>
+        <p>{computerWinCount} Losses</p>
       </div>
 
       <div className="gameArea">
